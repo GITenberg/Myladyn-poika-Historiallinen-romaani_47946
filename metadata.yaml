@@ -1,9 +1,13 @@
 _repo: Myladyn-poika-Historiallinen-romaani_47946
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Hämeen-Anttila, Väinö
     gutenberg_agent_id: '43032'
     url: http://www.gutenberg.org/2009/agents/43032
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dumas, Alexandre
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/492
     wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47946#Myladyn-poika-Historiallinen-romaani
 gutenberg_issued: '2015-01-11'
 gutenberg_type: Text
 identifiers:
